@@ -1,0 +1,25 @@
+.custom__size{
+    width: 50px;
+    height: auto;
+    border: 1px solid black;
+}
+
+.td{
+    border: 1px solid black;
+    
+   
+    
+}
+
+.layout{
+    border: 2px solid black;
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 08 px;
+    
+}
+
+.spaces{
+    border: 1px solid red;
+    margin-bottom: 30px;
+}

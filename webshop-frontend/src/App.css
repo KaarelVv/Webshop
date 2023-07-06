@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+.logo{
+  width: 200px;
+  height: 150px;
+}
+
+.logo:hover{
+  opacity: 0.9;
+  cursor: pointer; /* tuleb näpp peale osutades*/
+  width: 250px;
+  height: 200px;
+  transition: 1s;
+}
+
+.logo:active{
+  border: 3px solid rgb(83, 33, 33);
+}
+
+.menu-button{
+  background-color: blue;
+  border: none;
+  margin: 1px;;
+  border-radius: 2%;
+
+
+}
+
+.menu-button:hover{
+  opacity: 0.2;
+}
+
+
